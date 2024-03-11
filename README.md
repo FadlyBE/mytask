@@ -1,4 +1,5 @@
 clone the repository 
+<br>
 running composer install/update
 setup database in .env
 running php artisan migrate
